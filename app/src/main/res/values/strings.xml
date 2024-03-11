@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">basicActTest</string>
+    <string name="actions_cal">Calendar</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="radioGroup1">Gray</string>
+    <string name="radioGroup2">Red</string>
+    <string name="radioGroup3">Magenta</string>
+    <string name="date">Date : </string>
+    <string name="time">Time : </string>
+    <string name="actions_time">Clock</string>
+    <string name="actions_exit">Exit</string>
+
+</resources>
